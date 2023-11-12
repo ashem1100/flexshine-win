@@ -21,11 +21,11 @@ int main()
 
     }*/
 
-    int code;
+    /*int code;
     for (char i = 'a'; i <= 'z'; i++) {
         code = i;
         cout << i << "\t" << code << endl;
-    }
+    }*/
 
     char code;
     for (int i = 0; i <256; i++) {
