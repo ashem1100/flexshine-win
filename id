@@ -1,0 +1,13 @@
+///
+        \mbox{\hrefWithoutArrow{mailto:ashkanemami2005@gmail.com}{{\footnotesize\faEnvelope[regular]}\hspace*{0.12cm}ashkanemami2005@gmail.com}}
+        \kern 0.5 cm
+        \mbox{\hrefWithoutArrow{tel:+989196589644}{{\footnotesize\faPhone*}\hspace*{0.12cm}+98 919 658 9644}}
+        \kern 0.5 cm
+        \mbox{\hrefWithoutArrow{https://ashem.ir/}{{\footnotesize\faLink}\hspace*{0.12cm}ashem.ir}}
+        \kern 0.5 cm
+        \mbox{\hrefWithoutArrow{https://linkedin.com/in/ashem1100}{{\footnotesize\faLinkedinIn}\hspace*{0.12cm}ashem1100}}
+        \kern 0.5 cm
+        \mbox{\hrefWithoutArrow{https://github.com/ashem1100}{{\footnotesize\faGithub}\hspace*{0.12cm}ashem1100}}
+        \kern 0.5 cm
+    \end{header}
+////
